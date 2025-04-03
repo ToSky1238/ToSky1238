@@ -8,13 +8,13 @@ const Footer = (props) => {
       <p className="footer__title">Phuc Anh</p>
       <div className="footer__social">
         <a
-          href="https://github.com/JTop81?tab=repositories"
+          href="https://github.com/ToSky1238?tab=repositories"
           className="footer__icon"
         >
           <i className="fab fa-github"></i>
         </a>
       </div>
-      <p>&#169; {new Date().getFullYear()} copyright Phuc Anh</p>
+      <p>&#169; {new Date().getFullYear()}2025 copyright Phuc Anh</p>
     </footer>
   );
 };
