@@ -21,7 +21,7 @@ const Hero = (props) => {
         </div>
         <div className="home__social">
           <a
-            href="https://github.com/JTop81?tab=repositories"
+            href="https://github.com/ToSky1238?tab=repositories"
             className="home__social-icon"
           >
             <i className="bx bxl-github"></i>
