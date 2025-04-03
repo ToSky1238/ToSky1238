@@ -14,7 +14,7 @@ const Footer = (props) => {
           <i className="fab fa-github"></i>
         </a>
       </div>
-      <p>&#169; {new Date().getFullYear()}2025 copyright Phuc Anh</p>
+      <p>&#169; {new Date().getFullYear()}2025 Copyright Phuc Anh</p>
     </footer>
   );
 };
