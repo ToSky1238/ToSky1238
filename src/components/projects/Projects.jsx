@@ -15,8 +15,6 @@ const dummyProject = {
   pushed_at: null,
 };
 const API = "https://api.github.com";
-// const gitHubQuery = "/repos?sort=updated&direction=desc";
-// const specficQuerry = "https://api.github.com/repos/anhhp0/";
 
 
 const Projects = ({ heading, username, length, specfic }) => {

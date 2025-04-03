@@ -17,7 +17,6 @@
     transform: scale(1.1);
 }
 
-/*=== Media Queries ===*/
 @media screen and (min-width: 768px){
     .work__container {
         grid-template-columns: repeat(3, 1fr);
